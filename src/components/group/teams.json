@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_group_teams",
+  "info": {
+    "displayName": "Teams",
+    "icon": "user-friends"
+  },
+  "options": {},
+  "attributes": {
+    "team_name": {
+      "type": "string"
+    },
+    "team_bio": {
+      "type": "richtext"
+    },
+    "team_image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

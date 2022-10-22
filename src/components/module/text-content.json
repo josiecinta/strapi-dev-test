@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_module_text_contents",
+  "info": {
+    "displayName": "Text Content",
+    "icon": "align-left"
+  },
+  "options": {},
+  "attributes": {
+    "text_heading": {
+      "type": "string"
+    },
+    "text_copy": {
+      "type": "richtext"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_module_call_to_actions",
+  "info": {
+    "displayName": "Call To Action",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "button_label": {
+      "type": "string"
+    },
+    "button_link": {
+      "type": "string"
+    }
+  }
+}

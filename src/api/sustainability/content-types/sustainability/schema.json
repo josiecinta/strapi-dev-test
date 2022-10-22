@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "sustainabilities",
+  "info": {
+    "singularName": "sustainability",
+    "pluralName": "sustainabilities",
+    "displayName": "Sustainability"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "banner_heading": {
+      "type": "string"
+    },
+    "banner_subtitle": {
+      "type": "string"
+    }
+  }
+}

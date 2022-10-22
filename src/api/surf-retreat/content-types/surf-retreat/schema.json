@@ -1,0 +1,31 @@
+{
+  "kind": "singleType",
+  "collectionName": "surf_retreats",
+  "info": {
+    "singularName": "surf-retreat",
+    "pluralName": "surf-retreats",
+    "displayName": "Surf Retreat"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "banner_heading": {
+      "type": "string"
+    },
+    "banner_subtitle": {
+      "type": "string"
+    },
+    "banner_media": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

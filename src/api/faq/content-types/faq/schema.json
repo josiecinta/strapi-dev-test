@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "faqs",
+  "info": {
+    "singularName": "faq",
+    "pluralName": "faqs",
+    "displayName": "FAQ"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "banner_heading": {
+      "type": "string"
+    },
+    "banner_subtitle": {
+      "type": "string"
+    },
+    "text_content": {
+      "displayName": "Text Content",
+      "type": "component",
+      "repeatable": true,
+      "component": "module.text-content"
+    }
+  }
+}
